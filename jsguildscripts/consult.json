@@ -1,0 +1,81 @@
+{
+    "description": "", 
+    "github": "", 
+    "name": "normalize.css", 
+    "source": "", 
+    "tags": [
+        "consult"
+    ], 
+    "url": "", 
+    "version": "~3.0.3"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "ngInfiniteScroll", 
+    "source": "", 
+    "tags": [
+        "consult"
+    ], 
+    "url": "", 
+    "version": "1.0.0"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "font-awesome", 
+    "source": "", 
+    "tags": [
+        "consult"
+    ], 
+    "url": "", 
+    "version": "4.3.*"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-route", 
+    "source": "", 
+    "tags": [
+        "consult"
+    ], 
+    "url": "", 
+    "version": "1.3.*"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "bootstrap", 
+    "source": "", 
+    "tags": [
+        "consult"
+    ], 
+    "url": "", 
+    "version": "3.3.*"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "hinclude", 
+    "source": "", 
+    "tags": [
+        "consult"
+    ], 
+    "url": "", 
+    "version": "0.9.5"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular", 
+    "source": "", 
+    "tags": [
+        "consult"
+    ], 
+    "url": "", 
+    "version": "1.3.*"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "jquery", 
+    "source": "", 
+    "tags": [
+        "consult"
+    ], 
+    "url": "", 
+    "version": "1.11.*"
+}

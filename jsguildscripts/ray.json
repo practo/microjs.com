@@ -1,0 +1,231 @@
+{
+    "description": "", 
+    "github": "", 
+    "name": "semantic", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "2.1.5"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-bootstrap", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "1.1.1"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "idbwrapper", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "1.4.1"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "ngInfiniteScroll", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "1.2.1"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-loading-bar", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "0.7.1"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "font-awesome", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "4.3.0"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-strap", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "2.3.1"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "jquery", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "2.0.3"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "bootstrap-sass", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "3.3.4"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "webcamjs", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "1.0.6"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-animate", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "1.4.3"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "1.4.1"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-ui-select", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "0.12.0"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-ui-calendar", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "1.0.1"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-truncate", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "*"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "ng-file-upload", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "7.3.9"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "underscore", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "1.5.2"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "fullcalendar", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "2.6.0"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-ui-router", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "0.2.14"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "ioslist", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "2.0.6"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "moment", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "2.11.1"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-ui-sortable", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "0.13.4"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-toastr", 
+    "source": "", 
+    "tags": [
+        "ray"
+    ], 
+    "url": "", 
+    "version": "1.4.1"
+}

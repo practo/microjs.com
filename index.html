@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!</title>
+  <title>Practo's JS Libs</title>
   <meta name="viewport" content="width=device-width, initial-scale=0.45">
   <link href="http://fonts.googleapis.com/css?family=Maiden+Orange" rel="stylesheet">
   <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Microjs ATOM feed">
@@ -12,12 +12,7 @@
   <body>
 
   <div id="header">
-    <h1>
-      <span>m</span><span>i</span><span>c</span><span>r</span><span>o</span><span>j</span><span>s</span>
-    </h1>
-    <h1 class="overlay">
-      <span>m</span><span>i</span><span>c</span><span>r</span><span>o</span><span>j</span><span>s</span>
-    </h1>
+    <h1>Practo's Javascript libs used accross products</h1>
   </div>
 
   <div id="ineed" style="display: none;">
@@ -121,7 +116,7 @@
               + (r.tweets ? t('<span class="t icon">{tweets}</span>', r) : '')
               + '</div>'
             r.heading = r.name.length < 16 ? 3 : 4;
-            r._rendered = t('<li><a href="{url}"><div class="size">{size}</div><div class="title"><h{heading}>{name}</h{heading}>{stat}</div>{description}</a><div class="tags">'+tags+'</div></li>', r)
+            r._rendered = t('<li><a href="{url}"><div class="title"><h{heading}>{name}</h{heading}>{stat}</div>{description}</a><div class="tags">'+tags+'</div></li>', r)
           }
           html.push(results[i]._rendered)
         }

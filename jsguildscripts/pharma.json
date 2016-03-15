@@ -1,0 +1,101 @@
+{
+    "description": "", 
+    "github": "", 
+    "name": "ngHandsontable", 
+    "source": "", 
+    "tags": [
+        "pharma"
+    ], 
+    "url": "", 
+    "version": "~0.7.0"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular", 
+    "source": "", 
+    "tags": [
+        "pharma"
+    ], 
+    "url": "", 
+    "version": "~1.4.8"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-route", 
+    "source": "", 
+    "tags": [
+        "pharma"
+    ], 
+    "url": "", 
+    "version": "~1.4.8"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "ng-tags-input", 
+    "source": "", 
+    "tags": [
+        "pharma"
+    ], 
+    "url": "", 
+    "version": "~3.0.0"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "skeleton", 
+    "source": "", 
+    "tags": [
+        "pharma"
+    ], 
+    "url": "", 
+    "version": "~2.0.4"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-socket-io", 
+    "source": "", 
+    "tags": [
+        "pharma"
+    ], 
+    "url": "", 
+    "version": "~0.7.0"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "socket.io-client", 
+    "source": "", 
+    "tags": [
+        "pharma"
+    ], 
+    "url": "", 
+    "version": "~1.3.7"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "components-font-awesome", 
+    "source": "", 
+    "tags": [
+        "pharma"
+    ], 
+    "url": "", 
+    "version": "~4.5.0"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "ng-q", 
+    "source": "", 
+    "tags": [
+        "pharma"
+    ], 
+    "url": "", 
+    "version": "~0.1.0"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "moment", 
+    "source": "", 
+    "tags": [
+        "pharma"
+    ], 
+    "url": "", 
+    "version": "^2.11.2"
+}

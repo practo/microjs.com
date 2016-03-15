@@ -1,0 +1,191 @@
+{
+    "description": "", 
+    "github": "", 
+    "name": "textAngular", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "~1.4.3"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angularUtils-pagination", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "angular-utils-pagination#~0.9.3"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-resource", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "~1.4.5"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-sanitize", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "~1.4.5"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "underscore", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "~1.8.3"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "ng-tags-input", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "~2.3.0"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "ngAnimate", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "*"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "isteven-angular-multiselect", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "~4.0.0"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "ment.io", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "~0.9.23"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-flash-alert", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "~1.1.1"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "Ionicons", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "ionicons#~2.0.1"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "~1.4.0"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "font-awesome", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "~4.4.0"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-cookies", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "~1.4.8"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "ui-select", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "angular-ui-select#~0.13.2"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-loading-bar", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "~0.8.0"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "skeleton", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "~2.0.4"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "angular-route", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "~1.4.0"
+},{
+    "description": "", 
+    "github": "", 
+    "name": "jquery", 
+    "source": "", 
+    "tags": [
+        "chronos"
+    ], 
+    "url": "", 
+    "version": "~2.1.4"
+}

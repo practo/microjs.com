@@ -1,0 +1,131 @@
+{
+    "description": "", 
+    "github": "", 
+    "name": "jquery.dataTables.min.js", 
+    "source": "", 
+    "tags": [
+        "consumer payments"
+    ], 
+    "url": "", 
+    "version": ""
+},{
+    "description": "", 
+    "github": "", 
+    "name": "jszip.min.js", 
+    "source": "", 
+    "tags": [
+        "consumer payments"
+    ], 
+    "url": "", 
+    "version": ""
+},{
+    "description": "", 
+    "github": "", 
+    "name": "dataTables.buttons.min.js", 
+    "source": "", 
+    "tags": [
+        "consumer payments"
+    ], 
+    "url": "", 
+    "version": ""
+},{
+    "description": "", 
+    "github": "", 
+    "name": "bootstrap.min.js", 
+    "source": "", 
+    "tags": [
+        "consumer payments"
+    ], 
+    "url": "", 
+    "version": ""
+},{
+    "description": "", 
+    "github": "", 
+    "name": "dataTables.bootstrap.min.js", 
+    "source": "", 
+    "tags": [
+        "consumer payments"
+    ], 
+    "url": "", 
+    "version": ""
+},{
+    "description": "", 
+    "github": "", 
+    "name": "select2.js", 
+    "source": "", 
+    "tags": [
+        "consumer payments"
+    ], 
+    "url": "", 
+    "version": ""
+},{
+    "description": "", 
+    "github": "", 
+    "name": "buttons.bootstrap.min.js", 
+    "source": "", 
+    "tags": [
+        "consumer payments"
+    ], 
+    "url": "", 
+    "version": ""
+},{
+    "description": "", 
+    "github": "", 
+    "name": "jquery.js", 
+    "source": "", 
+    "tags": [
+        "consumer payments"
+    ], 
+    "url": "", 
+    "version": ""
+},{
+    "description": "", 
+    "github": "", 
+    "name": "vfs_fonts.js", 
+    "source": "", 
+    "tags": [
+        "consumer payments"
+    ], 
+    "url": "", 
+    "version": ""
+},{
+    "description": "", 
+    "github": "", 
+    "name": "buttons.html5.min.js", 
+    "source": "", 
+    "tags": [
+        "consumer payments"
+    ], 
+    "url": "", 
+    "version": ""
+},{
+    "description": "", 
+    "github": "", 
+    "name": "buttons.flash.min.js", 
+    "source": "", 
+    "tags": [
+        "consumer payments"
+    ], 
+    "url": "", 
+    "version": ""
+},{
+    "description": "", 
+    "github": "", 
+    "name": "buttons.print.min.js", 
+    "source": "", 
+    "tags": [
+        "consumer payments"
+    ], 
+    "url": "", 
+    "version": ""
+},{
+    "description": "", 
+    "github": "", 
+    "name": "pdfmake.min.js", 
+    "source": "", 
+    "tags": [
+        "consumer payments"
+    ], 
+    "url": "", 
+    "version": ""
+}
