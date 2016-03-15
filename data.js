@@ -132,33 +132,13 @@ module.exports = [
     {
         "description": "",
         "github": "",
-        "name": "fullcalendar",
+        "name": "semantic",
         "source": "",
         "tags": [
             "ray"
         ],
         "url": "",
-        "version": "2.6.0"
-    },{
-        "description": "",
-        "github": "",
-        "name": "angular-strap",
-        "source": "",
-        "tags": [
-            "ray"
-        ],
-        "url": "",
-        "version": "2.3.1"
-    },{
-        "description": "",
-        "github": "",
-        "name": "angular-ui-router",
-        "source": "",
-        "tags": [
-            "ray"
-        ],
-        "url": "",
-        "version": "0.2.14"
+        "version": "2.1.5"
     },{
         "description": "",
         "github": "",
@@ -172,16 +152,6 @@ module.exports = [
     },{
         "description": "",
         "github": "",
-        "name": "angular",
-        "source": "",
-        "tags": [
-            "ray"
-        ],
-        "url": "",
-        "version": "1.4.1"
-    },{
-        "description": "",
-        "github": "",
         "name": "idbwrapper",
         "source": "",
         "tags": [
@@ -192,6 +162,46 @@ module.exports = [
     },{
         "description": "",
         "github": "",
+        "name": "ngInfiniteScroll",
+        "source": "",
+        "tags": [
+            "ray"
+        ],
+        "url": "",
+        "version": "1.2.1"
+    },{
+        "description": "",
+        "github": "",
+        "name": "angular-loading-bar",
+        "source": "",
+        "tags": [
+            "ray"
+        ],
+        "url": "",
+        "version": "0.7.1"
+    },{
+        "description": "",
+        "github": "",
+        "name": "font-awesome",
+        "source": "",
+        "tags": [
+            "ray"
+        ],
+        "url": "",
+        "version": "4.3.0"
+    },{
+        "description": "",
+        "github": "",
+        "name": "angular-strap",
+        "source": "",
+        "tags": [
+            "ray"
+        ],
+        "url": "",
+        "version": "2.3.1"
+    },{
+        "description": "",
+        "github": "",
         "name": "jquery",
         "source": "",
         "tags": [
@@ -199,6 +209,46 @@ module.exports = [
         ],
         "url": "",
         "version": "2.0.3"
+    },{
+        "description": "",
+        "github": "",
+        "name": "bootstrap-sass",
+        "source": "",
+        "tags": [
+            "ray"
+        ],
+        "url": "",
+        "version": "3.3.4"
+    },{
+        "description": "",
+        "github": "",
+        "name": "webcamjs",
+        "source": "",
+        "tags": [
+            "ray"
+        ],
+        "url": "",
+        "version": "1.0.6"
+    },{
+        "description": "",
+        "github": "",
+        "name": "angular-animate",
+        "source": "",
+        "tags": [
+            "ray"
+        ],
+        "url": "",
+        "version": "1.4.3"
+    },{
+        "description": "",
+        "github": "",
+        "name": "angular",
+        "source": "",
+        "tags": [
+            "ray"
+        ],
+        "url": "",
+        "version": "1.4.1"
     },{
         "description": "",
         "github": "",
@@ -232,6 +282,56 @@ module.exports = [
     },{
         "description": "",
         "github": "",
+        "name": "ng-file-upload",
+        "source": "",
+        "tags": [
+            "ray"
+        ],
+        "url": "",
+        "version": "7.3.9"
+    },{
+        "description": "",
+        "github": "",
+        "name": "underscore",
+        "source": "",
+        "tags": [
+            "ray"
+        ],
+        "url": "",
+        "version": "1.5.2"
+    },{
+        "description": "",
+        "github": "",
+        "name": "fullcalendar",
+        "source": "",
+        "tags": [
+            "ray"
+        ],
+        "url": "",
+        "version": "2.6.0"
+    },{
+        "description": "",
+        "github": "",
+        "name": "angular-ui-router",
+        "source": "",
+        "tags": [
+            "ray"
+        ],
+        "url": "",
+        "version": "0.2.14"
+    },{
+        "description": "",
+        "github": "",
+        "name": "ioslist",
+        "source": "",
+        "tags": [
+            "ray"
+        ],
+        "url": "",
+        "version": "2.0.6"
+    },{
+        "description": "",
+        "github": "",
         "name": "moment",
         "source": "",
         "tags": [
@@ -242,43 +342,13 @@ module.exports = [
     },{
         "description": "",
         "github": "",
-        "name": "angular-animate",
+        "name": "angular-ui-sortable",
         "source": "",
         "tags": [
             "ray"
         ],
         "url": "",
-        "version": "1.4.3"
-    },{
-        "description": "",
-        "github": "",
-        "name": "angular-loading-bar",
-        "source": "",
-        "tags": [
-            "ray"
-        ],
-        "url": "",
-        "version": "0.7.1"
-    },{
-        "description": "",
-        "github": "",
-        "name": "bootstrap-sass",
-        "source": "",
-        "tags": [
-            "ray"
-        ],
-        "url": "",
-        "version": "3.3.4"
-    },{
-        "description": "",
-        "github": "",
-        "name": "font-awesome",
-        "source": "",
-        "tags": [
-            "ray"
-        ],
-        "url": "",
-        "version": "4.3.0"
+        "version": "0.13.4"
     },{
         "description": "",
         "github": "",
@@ -289,8 +359,7 @@ module.exports = [
         ],
         "url": "",
         "version": "1.4.1"
-    },
-    {
+    },{
         "description": "",
         "github": "",
         "name": "ngHandsontable",
@@ -374,6 +443,16 @@ module.exports = [
     {
         "description": "",
         "github": "",
+        "name": "ngHandsontable",
+        "source": "",
+        "tags": [
+            "pharma"
+        ],
+        "url": "",
+        "version": "~0.7.0"
+    },{
+        "description": "",
+        "github": "",
         "name": "angular",
         "source": "",
         "tags": [
@@ -451,8 +530,17 @@ module.exports = [
         ],
         "url": "",
         "version": "~0.1.0"
-    },
-    {
+    },{
+        "description": "",
+        "github": "",
+        "name": "moment",
+        "source": "",
+        "tags": [
+            "pharma"
+        ],
+        "url": "",
+        "version": "^2.11.2"
+    },{
         "description": "",
         "github": "",
         "name": "ng-file-upload",
@@ -742,8 +830,7 @@ module.exports = [
         ],
         "url": "",
         "version": "1.4.6"
-    },
-    {
+    },{
         "description": "",
         "github": "",
         "name": "jquery.dataTables.min.js",
@@ -1004,8 +1091,87 @@ module.exports = [
         ],
         "url": "",
         "version": ""
-    },
-    {
+    },{
+        "description": "",
+        "github": "",
+        "name": "normalize.css",
+        "source": "",
+        "tags": [
+            "consult"
+        ],
+        "url": "",
+        "version": "~3.0.3"
+    },{
+        "description": "",
+        "github": "",
+        "name": "ngInfiniteScroll",
+        "source": "",
+        "tags": [
+            "consult"
+        ],
+        "url": "",
+        "version": "1.0.0"
+    },{
+        "description": "",
+        "github": "",
+        "name": "font-awesome",
+        "source": "",
+        "tags": [
+            "consult"
+        ],
+        "url": "",
+        "version": "4.3.*"
+    },{
+        "description": "",
+        "github": "",
+        "name": "angular-route",
+        "source": "",
+        "tags": [
+            "consult"
+        ],
+        "url": "",
+        "version": "1.3.*"
+    },{
+        "description": "",
+        "github": "",
+        "name": "bootstrap",
+        "source": "",
+        "tags": [
+            "consult"
+        ],
+        "url": "",
+        "version": "3.3.*"
+    },{
+        "description": "",
+        "github": "",
+        "name": "hinclude",
+        "source": "",
+        "tags": [
+            "consult"
+        ],
+        "url": "",
+        "version": "0.9.5"
+    },{
+        "description": "",
+        "github": "",
+        "name": "angular",
+        "source": "",
+        "tags": [
+            "consult"
+        ],
+        "url": "",
+        "version": "1.3.*"
+    },{
+        "description": "",
+        "github": "",
+        "name": "jquery",
+        "source": "",
+        "tags": [
+            "consult"
+        ],
+        "url": "",
+        "version": "1.11.*"
+    },{
         "description": "",
         "github": "",
         "name": "textAngular",
@@ -1195,86 +1361,5 @@ module.exports = [
         ],
         "url": "",
         "version": "~2.1.4"
-    },
-    {
-        "description": "",
-        "github": "",
-        "name": "normalize.css",
-        "source": "",
-        "tags": [
-            "consult"
-        ],
-        "url": "",
-        "version": "~3.0.3"
-    },{
-        "description": "",
-        "github": "",
-        "name": "ngInfiniteScroll",
-        "source": "",
-        "tags": [
-            "consult"
-        ],
-        "url": "",
-        "version": "1.0.0"
-    },{
-        "description": "",
-        "github": "",
-        "name": "font-awesome",
-        "source": "",
-        "tags": [
-            "consult"
-        ],
-        "url": "",
-        "version": "4.3.*"
-    },{
-        "description": "",
-        "github": "",
-        "name": "angular-route",
-        "source": "",
-        "tags": [
-            "consult"
-        ],
-        "url": "",
-        "version": "1.3.*"
-    },{
-        "description": "",
-        "github": "",
-        "name": "bootstrap",
-        "source": "",
-        "tags": [
-            "consult"
-        ],
-        "url": "",
-        "version": "3.3.*"
-    },{
-        "description": "",
-        "github": "",
-        "name": "hinclude",
-        "source": "",
-        "tags": [
-            "consult"
-        ],
-        "url": "",
-        "version": "0.9.5"
-    },{
-        "description": "",
-        "github": "",
-        "name": "angular",
-        "source": "",
-        "tags": [
-            "consult"
-        ],
-        "url": "",
-        "version": "1.3.*"
-    },{
-        "description": "",
-        "github": "",
-        "name": "jquery",
-        "source": "",
-        "tags": [
-            "consult"
-        ],
-        "url": "",
-        "version": "1.11.*"
     }
 ];
